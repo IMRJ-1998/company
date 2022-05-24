@@ -1,5 +1,11 @@
 # company
 
+Read API Keys
+L2794G0Z481FPBC0
+
+Write API Key
+JB9DVARQQ0DC3QUN
+
 
 Write a Channel Feed
 GET https://api.thingspeak.com/update?api_key=JB9DVARQQ0DC3QUN&field1=0
